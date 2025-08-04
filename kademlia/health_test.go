@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/libp2p/go-libp2p-xor/key"
+	"github.com/MultiverseChronicles/go-libp2p-xor/key"
 )
 
 func TestTableHealthFromSets(t *testing.T) {
