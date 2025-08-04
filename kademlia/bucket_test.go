@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/libp2p/go-libp2p-xor/key"
-	"github.com/libp2p/go-libp2p-xor/trie"
+	"github.com/MultiverseChronicles/go-libp2p-xor/key"
+	"github.com/MultiverseChronicles/go-libp2p-xor/trie"
 )
 
 func randomTrie(count int, keySizeByte int) *trie.Trie {
