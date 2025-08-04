@@ -1,8 +1,8 @@
-module github.com/libp2p/go-libp2p-xor
+module github.com/MultiverseChronicles/go-libp2p-xor
 
 go 1.17
 
-require github.com/libp2p/go-libp2p-kbucket v0.3.1
+require github.com/MultiverseChronicles/go-libp2p-kbucket v0.3.1
 
 require (
 	github.com/btcsuite/btcd v0.20.1-beta // indirect
@@ -11,8 +11,8 @@ require (
 	github.com/ipfs/go-ipfs-util v0.0.1 // indirect
 	github.com/ipfs/go-log v0.0.1 // indirect
 	github.com/jbenet/goprocess v0.1.3 // indirect
-	github.com/libp2p/go-libp2p-core v0.3.0 // indirect
-	github.com/libp2p/go-openssl v0.0.4 // indirect
+	github.com/MultiverseChronicles/go-libp2p-core v0.3.0 // indirect
+	github.com/MultiverseChronicles/go-openssl v0.0.4 // indirect
 	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/mattn/go-isatty v0.0.5 // indirect
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1 // indirect
