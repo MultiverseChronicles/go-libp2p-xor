@@ -1,8 +1,8 @@
 package kademlia
 
 import (
-	"github.com/libp2p/go-libp2p-xor/key"
-	"github.com/libp2p/go-libp2p-xor/trie"
+	"github.com/MultiverseChronicles/go-libp2p-xor/key"
+	"github.com/MultiverseChronicles/go-libp2p-xor/trie"
 )
 
 // BucketAtDepth returns the bucket in the routing table at a given depth.
